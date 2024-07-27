@@ -60,3 +60,6 @@ YUMYUM 서비스는 사용자의 위치를 기반으로, 반경  1km 내의 맛�
 
 
 ## Team
+|<img src="https://avatars.githubusercontent.com/u/157556981?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/93659797?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/105542118?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/157556973?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/157556686?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|:-:|
+|서주원<br/>[@seojw4973](https://github.com/seojw4973)|권재원<br/>[@ReadAlien](https://github.com/ReadAlien)|정용안<br/>[@dyddks](https://github.com/dyddks)|조원진<br/>[@cyj1127](https://github.com/cyj1127)|김시언<br/>[@kimsiun](https://github.com/kimsiun)|
